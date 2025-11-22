@@ -1,0 +1,5 @@
+{
+  "name": "ZenForest - Focus Timer",
+  "description": "A productivity app inspired by Forest. Stay focused, plant virtual trees, and grow your personal forest. Uses Gemini AI to generate unique stories for your grown trees based on your focus sessions.",
+  "requestFramePermissions": []
+}
